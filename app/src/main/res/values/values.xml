@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="corner_radius" type="dimen">4dp</item>
+    <item name="pick_color_size" type="dimen">32dp</item>
+    <item name="color_item_divider" type="dimen">16dp</item>
+    <item name="color_item_pressed" type="dimen">24dp</item>
+    <item name="color_item_not_pressed" type="dimen">32dp</item>
+</resources>
